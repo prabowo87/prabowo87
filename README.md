@@ -57,6 +57,7 @@ I'm a software engineer with **10+ years** of experience crafting production-rea
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 **Payment Gateways**
 
