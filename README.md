@@ -84,6 +84,7 @@ I'm a software engineer with **10+ years** of experience crafting production-rea
 | ERP Beauty Clinic | Multi-branch microservices ERP system | NestJS, Prisma, PostgreSQL |
 | BCA VA & QRIS Integration | Direct BCA payment integration | Node.js, Laravel, MySQL |
 | Digital Authenticator | QR-based product verification | Laravel, Node.js, Xendit |
+| Anti-Malig (Immobilizer) | Car immobilizer via Android + IoT | Java, PHP, Arduino, MySQL |
 | Parking Membership | Multi-company parking management | Laravel, Android, Midtrans |
 
 ### Work History
@@ -105,9 +106,9 @@ I'm a software engineer with **10+ years** of experience crafting production-rea
 </p>
 
 <p align="center">
-  <img src="profile-summary-card-output/radical/3-stats.svg" alt="stats" width="32%">
-  <img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="top languages" width="32%">
-  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="most committed language" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabowo87&theme=radical" alt="stats" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabowo87&theme=radical" alt="top languages" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabowo87&theme=radical" alt="most committed language" width="32%">
 </p>
 
 <p align="center">
