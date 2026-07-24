@@ -85,6 +85,7 @@ I'm a software engineer with **10+ years** of experience crafting production-rea
 | BCA VA & QRIS Integration | Direct BCA payment integration | Node.js, Laravel, MySQL |
 | Digital Authenticator | QR-based product verification | Laravel, Node.js, Xendit |
 | Anti-Malig (Immobilizer) | Car immobilizer via Android + IoT | Java, PHP, Arduino, MySQL |
+| WhatsApp Gateway | WhatsApp API gateway for notifications | Anti-Malig (Immobilizer) | Car immobilizer via Android + IoT | Java, PHP, Arduino, MySQL | broadcast | Node.js, Laravel, MySQL |
 | Parking Membership | Multi-company parking management | Laravel, Android, Midtrans |
 
 ### Work History
