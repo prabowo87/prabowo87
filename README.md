@@ -102,6 +102,10 @@ I'm a software engineer with **10+ years** of experience crafting production-rea
   <img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="most committed language" width="32%">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabowo87&theme=radical&hide_border=true" alt="streak stats">
+</p>
+
 ---
 
 <div align="center">
